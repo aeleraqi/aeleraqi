@@ -7,7 +7,11 @@
 🚀 Open to new challenges and opportunities in AI, Data Science, and more!
 <!--
 **aeleraqi/aeleraqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🛠️ Skills & Tools
+- **Languages**: Python, R  
+- **AI**: NLP, Machine Learning, LLMs  
+- **Visualization**: Tableau, Power BI  
+- **Cloud**: AWS, Azure 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
