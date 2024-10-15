@@ -2,6 +2,7 @@
 
 🌱 Currently diving deep into NLP (Natural Language Processing)  
 👯 Always excited to collaborate on Data Visualization Projects  
+📄 Check out my [Resume]([#](https://smallpdf.com/file#s=6a011ece-21e2-4a5a-9e07-eab7f3e3d2f7))  
 📫 Let's connect: [LinkedIn](https://linkedin.com/in/amreleraqi)  
 🚀 Open to new challenges and opportunities in AI, Data Science, and more!
 <!--
